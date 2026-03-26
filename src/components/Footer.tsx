@@ -35,7 +35,7 @@ export default function Footer() {
         </div>
         <div className="flex flex-col md:flex-row justify-between items-center gap-6 pt-8 border-t border-slate-200/30">
           <p className="font-inter text-sm leading-relaxed text-slate-500">
-            © 2024 SUBLIM' PROPRETÉ - Résidence la Roseraie, 97122 Baie-Mahault, Guadeloupe.
+            © 2026 SUBLIM' PROPRETÉ - Résidence la Roseraie, 97122 Baie-Mahault, Guadeloupe.
           </p>
         </div>
       </div>
